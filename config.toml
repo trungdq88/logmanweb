@@ -1,0 +1,4 @@
+baseURL = "https://logman.app/"
+languageCode = "en-us"
+title = "Logman"
+theme = "ananke"
